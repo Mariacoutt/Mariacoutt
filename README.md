@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mariacoutt
-- 👀 I’m interested in medicine veterinary
-- 🌱 I’m currently learning tecnology, math,art,etc...
-- 💞️ I’m looking to collaborate on ;in this moment i stay learning,but i intend to improve myself in programming to make better projects.
-- 📫 How to reach me by me registration email
+- 👀 I’m interested in:Estou estudando na Alura 
+- 🌱 I’m currently learning :Estou me desenvolvendo na linguagem JavaScript
+- 💞️ I’m looking to collaborate on: Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
+- 📫 How to reach me: alurastartestudante@email.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm love pinting and coocking, and listen songs
+- ⚡ Fun fact: 
 
 <!---
 Mariacoutt/Mariacoutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
